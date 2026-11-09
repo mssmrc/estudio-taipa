@@ -1,0 +1,212 @@
+{
+  "hero": {
+    "file": "images/inicio/hero.jpg",
+    "alt": "Sala de jantar com janela ampla e vista para a vegetação",
+    "ratio": "16:9 (horizontal)",
+    "unsplash": [
+      "UW1WJJ0bkX0",
+      "12WFO8yWrsw"
+    ],
+    "prompt": "Contemporary dining room with floor-to-ceiling window framing Atlantic forest, light wood table, concrete floor, minimal furniture, soft afternoon light, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "estudio": {
+    "file": "images/estudio/estudio.jpg",
+    "alt": "Ambiente de estar com móveis em madeira e tons claros",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "9M66C_w_ToM",
+      "U39FPHKfDu0"
+    ],
+    "prompt": "Small architecture studio interior with large drafting table, physical scale models, material samples (wood, stone, ceramic), concrete walls, plants, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "arquiteta": {
+    "file": "images/estudio/marina.jpg",
+    "alt": "Marina Taipa, arquiteta",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "fBiJxs5GhaM",
+      "TiGLivtBrF4"
+    ],
+    "prompt": "Portrait of a Brazilian female architect in her late 30s, short hair, linen shirt, standing next to a physical architectural model in her studio, calm confident expression, natural light, editorial portrait, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "casa-lagoa-1": {
+    "file": "images/projetos/casa-lagoa-1.jpg",
+    "alt": "Fachada da Casa Lagoa com jardim",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "eWOgoFHlE8g",
+      "3ddHcjHmiGw"
+    ],
+    "prompt": "Modern single-family house near a lagoon in Florianópolis, exposed concrete and wood slats, large glass openings, tropical garden, view 1 of 3: exterior or main space wide shot, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "casa-lagoa-2": {
+    "file": "images/projetos/casa-lagoa-2.jpg",
+    "alt": "Piscina e jardim da Casa Lagoa",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "ylzGfY-xzBY",
+      "WaC-JFfF21M"
+    ],
+    "prompt": "Modern single-family house near a lagoon in Florianópolis, exposed concrete and wood slats, large glass openings, tropical garden, view 2 of 3: detail or secondary space, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "casa-lagoa-3": {
+    "file": "images/projetos/casa-lagoa-3.jpg",
+    "alt": "Sala com janelas amplas",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "12WFO8yWrsw",
+      "IE0m2PUI4Fg"
+    ],
+    "prompt": "Modern single-family house near a lagoon in Florianópolis, exposed concrete and wood slats, large glass openings, tropical garden, view 3 of 3: interior atmosphere, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "apartamento-beira-mar-1": {
+    "file": "images/projetos/apartamento-beira-mar-1.jpg",
+    "alt": "Sala de estar do apartamento",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "IE0m2PUI4Fg",
+      "ovhhw0HSFsw"
+    ],
+    "prompt": "Seaside apartment interior renovation, integrated living and kitchen, light oak joinery, linen sofa, ocean view through the window, view 1 of 3: exterior or main space wide shot, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "apartamento-beira-mar-2": {
+    "file": "images/projetos/apartamento-beira-mar-2.jpg",
+    "alt": "Cozinha integrada com madeira natural",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "Hnec2oEbbxk",
+      "8FIqK2J7jSc"
+    ],
+    "prompt": "Seaside apartment interior renovation, integrated living and kitchen, light oak joinery, linen sofa, ocean view through the window, view 2 of 3: detail or secondary space, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "apartamento-beira-mar-3": {
+    "file": "images/projetos/apartamento-beira-mar-3.jpg",
+    "alt": "Detalhe de decoração com arte",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "ovhhw0HSFsw",
+      "KbytCpI1i5I"
+    ],
+    "prompt": "Seaside apartment interior renovation, integrated living and kitchen, light oak joinery, linen sofa, ocean view through the window, view 3 of 3: interior atmosphere, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "casa-pinheiros-1": {
+    "file": "images/projetos/casa-pinheiros-1.jpg",
+    "alt": "Sala com janela geométrica e vista para a mata",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "SBFfV6cNe-Y",
+      "4vioYQ9Nn9Y"
+    ],
+    "prompt": "Mountain house among pine trees in southern Brazil, geometric window, stone stairs, warm wood interior, dusk, view 1 of 3: exterior or main space wide shot, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "casa-pinheiros-2": {
+    "file": "images/projetos/casa-pinheiros-2.jpg",
+    "alt": "Poltrona junto à escada de pedra",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "5MG8cQbw-T8",
+      "8J49mtYWu7E"
+    ],
+    "prompt": "Mountain house among pine trees in southern Brazil, geometric window, stone stairs, warm wood interior, dusk, view 2 of 3: detail or secondary space, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "casa-pinheiros-3": {
+    "file": "images/projetos/casa-pinheiros-3.jpg",
+    "alt": "Fachada iluminada à noite",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "4vioYQ9Nn9Y",
+      "hHz4yrvxwlA"
+    ],
+    "prompt": "Mountain house among pine trees in southern Brazil, geometric window, stone stairs, warm wood interior, dusk, view 3 of 3: interior atmosphere, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "restaurante-mare-1": {
+    "file": "images/projetos/restaurante-mare-1.jpg",
+    "alt": "Fachada do restaurante ao entardecer",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "kUdbEEMcRwE",
+      "z6UAWpQAhXs"
+    ],
+    "prompt": "Small seafood restaurant interior and facade, wooden tables, rope and ceramic details, warm pendant lights, dusk, view 1 of 3: exterior or main space wide shot, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "restaurante-mare-2": {
+    "file": "images/projetos/restaurante-mare-2.jpg",
+    "alt": "Mesas de madeira do salão",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "YI2YkyaREHk",
+      "U39FPHKfDu0"
+    ],
+    "prompt": "Small seafood restaurant interior and facade, wooden tables, rope and ceramic details, warm pendant lights, dusk, view 2 of 3: detail or secondary space, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "restaurante-mare-3": {
+    "file": "images/projetos/restaurante-mare-3.jpg",
+    "alt": "Detalhe do mobiliário",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "U39FPHKfDu0",
+      "_HqHX3LBN18"
+    ],
+    "prompt": "Small seafood restaurant interior and facade, wooden tables, rope and ceramic details, warm pendant lights, dusk, view 3 of 3: interior atmosphere, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "loft-centro-1": {
+    "file": "images/projetos/loft-centro-1.jpg",
+    "alt": "Loft com janela grande",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "OtXADkUh3-I",
+      "rEJxpBskj3Q"
+    ],
+    "prompt": "Compact downtown loft renovation, high ceilings, steel window, polished concrete floor, built-in shelves, plants, view 1 of 3: exterior or main space wide shot, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "loft-centro-2": {
+    "file": "images/projetos/loft-centro-2.jpg",
+    "alt": "Chaise junto à janela",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "rEJxpBskj3Q",
+      "KbytCpI1i5I"
+    ],
+    "prompt": "Compact downtown loft renovation, high ceilings, steel window, polished concrete floor, built-in shelves, plants, view 2 of 3: detail or secondary space, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "loft-centro-3": {
+    "file": "images/projetos/loft-centro-3.jpg",
+    "alt": "Sofá e iluminação natural",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "KbytCpI1i5I",
+      "IH7wPsjwomc"
+    ],
+    "prompt": "Compact downtown loft renovation, high ceilings, steel window, polished concrete floor, built-in shelves, plants, view 3 of 3: interior atmosphere, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "residencia-campeche-1": {
+    "file": "images/projetos/residencia-campeche-1.jpg",
+    "alt": "Residência com piscina e área externa",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "Id7u0EkTjBE",
+      "WaC-JFfF21M"
+    ],
+    "prompt": "White beach house near Campeche beach, pool deck, sun loungers, whitewashed walls, wooden pergola, view 1 of 3: exterior or main space wide shot, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "residencia-campeche-2": {
+    "file": "images/projetos/residencia-campeche-2.jpg",
+    "alt": "Deck da piscina com espreguiçadeiras",
+    "ratio": "4:5 (vertical)",
+    "unsplash": [
+      "WaC-JFfF21M",
+      "ylzGfY-xzBY"
+    ],
+    "prompt": "White beach house near Campeche beach, pool deck, sun loungers, whitewashed walls, wooden pergola, view 2 of 3: detail or secondary space, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  },
+  "residencia-campeche-3": {
+    "file": "images/projetos/residencia-campeche-3.jpg",
+    "alt": "Cozinha com janelas amplas",
+    "ratio": "3:2 (horizontal)",
+    "unsplash": [
+      "8FIqK2J7jSc",
+      "Hnec2oEbbxk"
+    ],
+    "prompt": "White beach house near Campeche beach, pool deck, sun loungers, whitewashed walls, wooden pergola, view 3 of 3: interior atmosphere, architectural photography, natural light, Brazilian contemporary architecture, no people, no text"
+  }
+}
